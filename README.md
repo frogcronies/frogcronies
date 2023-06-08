@@ -1,5 +1,5 @@
 - 🐸 Hi, I’m @frogcronies
-- 👀 I’m interested in creating useful applications for my hobbies and interests and starting a career in tech.
+- 👀 I’m interested in creating useful applications for my hobbies and starting a career in tech.
 - 🌱 I’m currently learning Python, Java and web development.
 - 💞️ I’m looking to collaborate on smaller projects.
 - 📫 How to reach me: frogcronies@gmail.com
